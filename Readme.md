@@ -5,7 +5,7 @@ A responsive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**.
 This browser-based game allows two players to play against each other with turn-based mechanics and automatic win detection.
 <br>
 ---
-<br>
+<br><br>
 ## ✨ Features:
 <br>
 ✅ Turn-based gameplay (X vs O)  
@@ -23,7 +23,7 @@ This browser-based game allows two players to play against each other with turn-
 ✅ **Fully responsive** UI (works on mobile, tablet, desktop)
 <br>
 ---
-<br>
+<br><br>
 ## 🛠️ Technologies Used:
 <br>
 - HTML5  
@@ -33,6 +33,7 @@ This browser-based game allows two players to play against each other with turn-
 - JavaScript (ES6)
 <br>
 ---
+<br><br>
 🖥️Is This Project Responsive??
 <br>
 This Tic-Tac-Toe project is fully responsive, meaning it adjusts and looks perfect on:
@@ -46,5 +47,6 @@ The layout and buttons scale smoothly, making it easy to play on any device.
 👤 Author:  
 <br>
 Saher Nawaz
+
 
 
